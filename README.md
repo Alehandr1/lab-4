@@ -7,6 +7,6 @@
 ## Варіант 13
 
 
-![](final_1.jpg)
+![](final_1.png)
 
-![](final_2.jpg)
+![](final_2.png)
